@@ -33,6 +33,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.TheAnimalWorld" >
         <activity
+            android:name="com.example.theanimalworld.Welcome"
+            android:exported="false" />
+        <activity
             android:name="com.example.theanimalworld.Home"
             android:exported="false"
             android:screenOrientation="landscape" />
@@ -53,7 +56,7 @@
             android:exported="false"
             android:screenOrientation="landscape" />
         <activity
-            android:name="com.example.theanimalworld.Welcome"
+            android:name="com.example.theanimalworld.Learning"
             android:exported="true"
             android:screenOrientation="landscape" >
             <intent-filter>

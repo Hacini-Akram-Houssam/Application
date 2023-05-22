@@ -1,35 +1,35 @@
 [
     {
-        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\raw_donkey_name.wav.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\raw\\donkey_name.wav"
     },
     {
-        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_logo.png.flat",
-        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\logo.png"
+        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_wrong_answer_bg.xml.flat",
-        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\wrong_answer_bg.xml"
+        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\logo.png"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_chicken.png.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\chicken.png"
     },
     {
-        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_music_on.xml.flat",
-        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\music_on.xml"
+        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_wrong_answer_bg.xml.flat",
+        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\wrong_answer_bg.xml"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_lock.xml.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_music_on.xml.flat",
+        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\music_on.xml"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
@@ -100,16 +100,16 @@
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\layout_activity_learning.xml.flat",
+        "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\layout\\activity_learning.xml"
+    },
+    {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_whale.png.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\whale.png"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\raw_wrong_answer.wav.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\raw\\wrong_answer.wav"
-    },
-    {
-        "merged": "com.example.theanimalworld.app-merged_res-33:/layout_activity_landlevel1.xml.flat",
-        "source": "com.example.theanimalworld.app-main-35:/layout/activity_landlevel1.xml"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable-v24_ic_launcher_foreground.xml.flat",
@@ -146,10 +146,6 @@
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_emptystars.png.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\drawable\\emptystars.png"
-    },
-    {
-        "merged": "com.example.theanimalworld.app-merged_res-33:/layout_activity_welcome.xml.flat",
-        "source": "com.example.theanimalworld.app-main-35:/layout/activity_welcome.xml"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_transparent_bg.xml.flat",
@@ -266,6 +262,10 @@
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\layout_activity_welcome.xml.flat",
         "source": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-main-35:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.theanimalworld.app-merged_res-33:/layout_activity_learning.xml.flat",
+        "source": "com.example.theanimalworld.app-main-35:/layout/activity_learning.xml"
     },
     {
         "merged": "C:\\Users\\oxbo\\.gradle\\daemon\\7.5\\com.example.theanimalworld.app-merged_res-33:\\drawable_time.png.flat",

@@ -54,13 +54,19 @@ id Wplay
 id Wsetting
 id ageA
 id circleContainer
+id dikromi
+id djaj
+id gototest
 id hand
+id himar
+id hisan
 id imageView
 id imageView3
 id imageView4
 id img1
 id img2
 id img3
+id kalb
 id land
 id land1
 id level1
@@ -87,6 +93,7 @@ id sky2
 id stars
 id testtext
 id text
+id text1
 id timer
 id txt
 id txt1
@@ -97,6 +104,7 @@ id usernameB
 id whale
 layout activity_land_animal
 layout activity_landlevel1
+layout activity_learning
 layout activity_send_to_db
 layout activity_test
 layout activity_welcome
